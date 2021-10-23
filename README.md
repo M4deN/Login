@@ -2,7 +2,7 @@
 <p><b>Site Página web login. 🧮</b></p>
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-<a href="https://alexdesaran.github.io/Amazon-Prime/"> Visite o site! </a>
+<a href="https://alexdesaran.github.io/Login/"> Visite o site! </a>
 
 <h4> 
 	Projeto Concluído ✅
@@ -38,7 +38,7 @@ Foi desenvolvido diretamente no código.</p>
 <h3>Sessão Principal:</h3>
 
 
-![Começo](https://github.com/AlexDeSaran/Amazon-Prime/blob/main/Imagens/Capturar1.PNG)
+![Começo](https://github.com/AlexDeSaran/Login/blob/main/img/login.png)
 
 ##### Autor do Projeto: Alécio L. Medeiros
 
