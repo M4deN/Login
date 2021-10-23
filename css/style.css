@@ -23,7 +23,7 @@ body {
     background: #000000;
   }
   100% {
-    background: #5504a0;
+    background: #470981;
   }
 }
 
@@ -204,7 +204,7 @@ body {
 
 .btn-face {
   padding: 1rem;
-  background-color: #4c69a2;
+  background-color:#5504a0;
   color: #f5f5f5;
 }
 
