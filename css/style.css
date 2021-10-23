@@ -22,7 +22,7 @@ body {
     background: #000000;
   }
   100% {
-    background: #312f33;
+    background: #5504a0;
   }
 }
 
@@ -68,18 +68,18 @@ body {
   left: 100px;
   width: 100px;
   height: 2px;
-  background-color: #5504a0;
+  background-color: #070607;
 }
 
 .user-img i {
   font-size: 2.4rem;
-  color: #5504a0;
+  color: #0d0d0e;
 }
 
 .quote {
   display: block;
   font-family: sans-serif;
-  color: #5504a0;
+  color: #0c0b0c;
   font-family: "Open Sans", sans-serif;
 }
 
