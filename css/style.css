@@ -17,7 +17,7 @@ body {
     background: #5504a0;
   }
 }
-/* efeito paralax*/
+/* efeito troca de cor*/
 @keyframes bg-change-color {
   0% {
     background: #000000;
