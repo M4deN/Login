@@ -40,6 +40,3 @@ Foi desenvolvido diretamente no código.</p>
 
 ![Começo](https://github.com/AlexDeSaran/Login/blob/main/img/login.png)
 
-<h3 id="autor"Autor</h3>
-
-<p>Autor do Projeto: Alécio L. Medeiros</p>
