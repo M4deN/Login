@@ -7,6 +7,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  font-family: "Poppins", sans-serif;
 }
 
 @-webkit-keyframes bg-change-color {
@@ -246,4 +247,23 @@ body {
 
 .error-msg.visible {
   visibility: visible;
+}
+
+footer{
+  clear: both;
+  border-top: 1px solid white; 
+  color:white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 5px;
+  text-align: center;
+}
+
+footer p, a{
+  margin-top: auto;
+  margin-left: 0.2em;
+  color: var(--white);
+  align-items: center;
+  text-decoration: none;
 }
