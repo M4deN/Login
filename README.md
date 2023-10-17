@@ -29,12 +29,7 @@ Foi desenvolvido diretamente no código.</p>
 
 </p>
 
-<h2 id="sessao">Sessão única do Projeto:</h2>
-
-<p>A página apresenta uma sessão, sendo essa a sessão principal.<p>
-
-<h3>Sessão Principal:</h3>
-
+<h2 id="sessao">Sessão do Projeto:</h2>
 
 ![Começo](https://github.com/AlexDeSaran/Login/blob/main/img/login.png)
 
